@@ -18,14 +18,16 @@ Upon successful completion of this course, students will:
 * Comprehend the computational theory used in video games design, as well as, to a lesser extent, related fields (artificial intelligence, computer graphics, networks, etc.);
 * Understand the theoretical topic of game theory, and how that applies to multi-player games (and, to a lesser extent, artificial intelligence).
 
-[Online Coursepack](#){: .btn  .btn-primary .mr-2 }
-[Gradescope](#){: .btn .btn-primary .mr-2  }
-[Piazza](#){: .btn .btn-primary .mr-2  }
-[Collab](#){: .btn .btn-primary .mr-2  }
-[GitHub](#){: .btn .btn-primary .mr-2  }
+## Quick Info for Registration
 
-## Lecture Sessions
-Mondays, Wednesdays, and Fridays @ 10:00 PM-10:50 AM in OLS 018   
+* Meets MWF 10:00 AM in OLS 018
+* Attendance _will_ be taken on multiple days, especially lab activity days
+* There will be (on average) one lab day every week and Random Encounters (e.g. short one question quizzes) can occur on any day
+* You will need to play 2 or 3 required games (_A Short Hike_ will be one of them) and at least one game of your own choosing
+* Students will write multiple 2-3 page papers analyzing these games
+* There will be a semester-long game project where teams of 3-4 students build games using MonoGame
+* Why are we not using Unity?  1. The learning curve for Unity and 2. Unity hides a lot of the interesting game engine things that I want students to learn, such as the game loop
+* There is a book that students will also need to read during the semester - _Reality is Broken_ by Jane McGonigal.  Students signing up for this course are encouraged to read the book over winter break (but it's not required to do so).
 
 ## Staff Information
 __Instructor:__ Prof. Mark Sherriff   
