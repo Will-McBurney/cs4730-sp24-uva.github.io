@@ -15,62 +15,66 @@ nav_order: 2
 
 ## Basic Info
 {: .no_toc }
-Fall 2022 Semester   
-https://f22.cs4720.org   
+Spring 2023 Semester   
+https://s23.cs4730.games   
 
 ## Lecture Sessions
-Mondays, Wednesdays, and Fridays @ 2:00 PM-2:50 PM in OLS 018   
+Mondays, Wednesdays, and Fridays @ 10:00 PM-10:50 AM in OLS 018   
 
 ## Staff Information
 __Instructor:__ Prof. Mark Sherriff   
 Office: Rice 400   
-Office Hours: Tuesdays, 11:00 AM-12:30 PM and Wednesdays, 9:00 AM-10:30 AM  
+Office Hours: TBA  
 Email: [sherriff@virginia.edu](mailto:sherriff@virginia.edu)    
 Website: [http://marksherriff.com](http://marksherriff.com)    
 
-__Teaching Assistants:__ Farzana Ahmad and Oishee Hoque    
-Office Hours (Rice 442): Farzana - Tuesdays 2:00 PM-3:30 PM and Wednesdays 3:00 PM-4:30 PM // Oishee - Mondays and Thursdays 12:00 PM-1:30 PM     
+__Teaching Assistants:__ TBA
 
 ## Course Description and Requirements
 
-_Mobile computing devices have become ubiquitous in our communities. In this course, we focus on the creation of mobile solutions for various modern platforms, including major mobile operating systems. Topics include mobile device architecture, programming languages, software engineering, user interface design, and app distribution._ -SIS Course Description
+_This course will introduce students to the concepts and tools used in the development of modern 2-D and 3-D real-time interactive computer video games. Topics covered in this include graphics, parallel processing, human-computer interaction, networking, artificial intelligence, and software engineering._ -SIS Course Description
 
-Our course is an introductory course in mobile application development. We will focus on both the unique nature of building apps for mobile devices, including challenges with usability, privacy, and third-party integration. 
+Our course is an introductory course in video game design and production. We will focus on both the design and technical aspects of creating a game, from concept inception and prototyping through coding and playtesting.
 
 Upon successful completion of this course, students will:
 
-* Understand the differences in building applications for mobile devices as opposed to desktop or the web;
-* Understand the basic technology and platforms for mobile development;
-* Understand the software engineering concepts necessary to develop mobile apps (and other large systems) in a group;
-* Understand the privacy, ethical, usability, and accessibility issues specific to mobile;
-* Have a familiarity with at least one mobile platform and programming language.
+* Understand the social and ethical context in which video games are developed, marketed, and played;
+* Understand the technologies and platforms upon which modern interactive video games are developed;
+* Understand the software engineering concepts necessary to develop video games (and other large systems) in a large development group;
+* Comprehend the computational theory used in video games design, as well as, to a lesser extent, related fields (artificial intelligence, computer graphics, networks, etc.);
+* Understand the theoretical topic of game theory, and how that applies to multi-player games (and, to a lesser extent, artificial intelligence).
 
 ### Major Topics
 {: .no_toc }
-* Client Hardware (Desktop vs. Mobile)
-* Android Development w/ Kotlin
-* iOS Development w/ Swift 
-* Cross Platform Tools and Development 
-* Incorporating Web/Cloud Services
-* Mobile Sensors
-* Security and Trust Management
-* Privacy and Ethics
-* User Interface Design
-* Accessibility for Mobile
-* App Distribution Systems
+* What exactly are games?
+* Game design documents and storyboarding
+* Game engines
+* Game physics
+* Collision detection
+* Game mechanics
+* AI
+* Pathfinding
+* Graphics / Lighting
+* Statistics / Probability / Game Theory
+* Game balancing
 
 ### Course Requirements
 {: .no_toc }
 1. Prereq: Old Curriculum - CS 2150 / New Curriculum - CS 3140
-2. Can attend class regularly.
+2. __MUST__ attend class regularly.
 3. You will be expected to learn programming languages and platforms on your own in this class! If you don’t feel comfortable with this, please talk to Prof. Sherriff as soon as possible!
+
+### Textbooks
+{: .no_toc }
+* Game Design Workshop: A Playcentric Approach to Creating Innovative Games by Tracy Fullerton - Available online as a PDF through UVA Library for free
+* Reality Is Broken: Why Games Make Us Better and How They Can Change the World by Jane McGonigal - [Amazon](https://www.amazon.com/Reality-Broken-Games-Better-Change/dp/0143120611)    
 
 ## Communication and Logistics
 
 ### Piazza
 {: .no_toc }
 
-Piazza @ [https://piazza.com/class/l6fccdmluj73ia](https://piazza.com/class/l6fccdmluj73ia)    
+Piazza @ [TBD](#)    
 
 We will be using Piazza for the following:
 
@@ -95,70 +99,63 @@ We will not be using email for:
 * Regrades (use Gradescope first, then office hours only if not resolved)
 * Tech help (use Piazza)
 * Project questions (use Piazza)
-* Guided Practice questions (use Piazza)
 
-_PLEASE_ make sure to put "CS 4720" in the subject line somewhere so I can keep track of your request!  And please be patient with me in responding.  I receive A LOT of email and it's easy to get behind.  If there is a time-critical nature to your note, please let me know that as well.
+_PLEASE_ make sure to put "CS 4730" in the subject line somewhere so I can keep track of your request!  And please be patient with me in responding.  I receive A LOT of email and it's easy to get behind.  If there is a time-critical nature to your note, please let me know that as well.
 
 ## Assessment and Grading
 We will utilize a positive-reinforcement grading policy in this course. Your grade in this course will be based on experience points (XP). Every student begins the course with 0 XP.  As you complete assessments and quizzes, you will earn XP.  Some assessments will have a way to retake or resubmit to earn some of the XP that was not earned on the first attempt.  Please see individual assessments for more information regarding how this mechanic works.
 
 | Assessment	| Who	| Max XP |
 |:--------------|:----|:-----|
-|Practice App 1 (Android, iOS, or React Native) |	Individual |	150 |
-|Practice App 2 (Android, iOS, or React Native) |	Individual |	150 |
-|Final App Project (Student Choice Platform) |	Individual or Pair | 250 |
-|Quiz 1 - Platforms |	Individual | 150 |
-|Quiz 2 - Data and Service |	Individual | 150 |
-|Quiz 3 - User Experience  |	Individual | 150 |
-| __Total Course XP__ | | 1000 |
+|Random Encounters |	Individual |	 |
+|Critical Analysis Papers |	Individual |	 |
+|Game Design Documents |	Individual and Team |  |
+|Midterm Mini-Boss |	Individual |  |
+|Final Boss |	Individual |  |
+|MonoGame Game Project  |	Team |  |
+| __Total Course XP__ | | ??? |
 
-| Letter Grade | XP Required |
-| ------------ | ----------- |
-| A+           | 1000        |
-| A            | 950         |
-| A-           | 900         |
-| B+           | 875         |
-| B            | 850         |
-| B-           | 825         |
-| C+           | 775         |
-| C            | 750         |
-| C-           | 700         |
-| D+           | 675         |
-| D            | 650         |
-| D-           | 625         |
 
 ### Assessment Notes
 {: .no_toc }
 
-* There are 3 total quizzes, which will be taken in-person during lecture. Students can earn back up to 150 XP from missed quiz questions on the final exam.
-* There are 3 total mobile apps that students will build during the semester.  The first two will be the same app (a UVA Bucket List), but built using two different platforms (Android + Kotlin, iOS + Swift, React Native + Javascript).  The final app project will be a larger project of the student's choice on the platform of their choice.  However, there will be a set of technical requirements that the student must fulfill.  More information can be found on the Mobile Apps and Project page. 
+__Mini-Boss and Final Boss:__   
+* There are two tests in the course - the Midterm Mini-Boss and the Final Boss (Final Exam).
+
+__Critical Analysis:__    
+* Students will write multiple 2-3 page papers during the semester analyzing different video games. 
+* More instructions will be provided on the course website.
+
+__Game Design Documents:__
+* Students will write multiple game design documents during the semester, both for potential games that they might want to make some day and for their actual semester game project.  
+* More instructions will be provided on the course website.
+
+__Random Encounters:__
+* Random Encounters are short, in-class assessments to ascertain a student's understanding of a single concept we have been discussing recently. 
+* There will be multiple of these throughout the semester.
+* Missed Random Encounters cannot be made up, however you can "flee" from a given number, thus incurring no penalty.
+
+## Game Project in MonoGame
+
+* Students will pitch game ideas to the class at the beginning of the semester.
+* Students will then vote on the ideas, thus selecting the games they will be building on teams.
+* Team size will be three or four students.
+* Students must use the MonoGame engine to build their games.
+* There will be multiple in-class labs as tutorials for MonoGame.
 
 ## Class Management
-
-### Devices and Platforms
-{: .no_toc }
-
-You are not required to own a mobile device of any particular kind for this course.  The bulk of development will take place in the emulators provided by the platforms.  If you wish to check out a device, we have some options available.  
-
-* __Windows:__ If you only have access to a Windows machine, you should probably focus on Android and React Native development.  If you wish to develop an iOS app, you can also use cloud services such as http://www.macincloud.com/ at your own cost.
-* __Mac:__ If you have access to a MacOS machine, you can develop for any of the three platforms.
-* __Android:__ Samsung tablet devices are available for students to check out for development. Students are welcome to use their own Android devices if they like. Due to device limiations, we strongly suggest students avoid creating apps that lean heavily on phone-only features, such as calling or SMS. Android code should be developed in Android Studio in Windows or macOS.
-* __iOS:__ iPod Touch devices are availalbe for students to check out for development. Students are welcome to use their own iOS devices if they like. Due to device limiations, we strongly suggest students avoid creating apps that lean heavily on phone-only features, such as calling or SMS. iOS code should be developed using Swift in Xcode. 
-* __React Native:__ As React Native is intended to be platform independent, you can use any device for these apps.  However, we would recommend Android devices due to ease of deployment.
 
 ### Attendance
 {: .no_toc }
 
-* Attendance in lecture is vital to learning the material and making a good grade in this class.
-* Attendance in class will not be explicitly graded.
-* It is not necessary to inform me of missing a class __unless__ you are missing one of the noted quiz days.
-* If you are going to miss a quiz, you must inform me more than 24 hours in advance to discuss your reason and options for making up the quiz (if possible).  In case of illness or emergency, please inform me when you are able to do so within reason.
+* In-person attendance is required for this class, especially on lab activity days.
+* Attendance will be taken on all lab activity days.  There will be (on average) one lab day per week.
+* If you are going to miss a test, you must inform me more than 24 hours in advance to discuss your reason and options for making up the test (if possible).  In case of illness or emergency, please inform me when you are able to do so within reason.
 
 ### Late Policy
 {: .no_toc }
 
-* Apps may be submitted up to 24 hours late, but will incur a 10% penalty.
-* Quizzes may not be submitted late.  
+TBD
 
 ### This Syllabus
 {: .no_toc }
