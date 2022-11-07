@@ -21,11 +21,12 @@ Upon successful completion of this course, students will:
 ## Quick Info for Registration
 
 * Meets MWF 10:00 AM in OLS 018
-* Attendance _will_ be taken on multiple days, especially lab activity days
-* There will be (on average) one lab day every week and Random Encounters (e.g. short one question quizzes) can occur on any day
-* You will need to play 2 or 3 required games (_A Short Hike_ will be one of them) and at least one game of your own choosing
-* Students will write multiple 2-3 page papers analyzing these games
-* There will be a semester-long game project where teams of 3-4 students build games using MonoGame
+* Attendance _will_ be taken on multiple days, especially lab activity days.
+* There will be (on average) one lab day every week and Random Encounters (e.g. short one question quizzes) can occur on any day.
+* [Here is an example schedule from a previous semester.](https://docs.google.com/spreadsheets/d/1wQwxfKmuzyVG04oP-hLRcPhZ4eOfXqItqsI-94WnGEM/edit?usp=sharing).  Except for the fact that this was a semester I used Unity, most of the lecture content, order, etc. will be roughly similar.
+* You will need to play 2 or 3 required games (_A Short Hike_ will be one of them) and at least one game of your own choosing.
+* Students will write multiple 2-3 page papers analyzing these games.
+* There will be a semester-long game project where teams of 3-4 students build games using MonoGame.
 * Why are we not using Unity?  1. The learning curve for Unity and 2. Unity hides a lot of the interesting game engine things that I want students to learn, such as the game loop
 * There is a book that students will also need to read during the semester - _Reality is Broken_ by Jane McGonigal.  Students signing up for this course are encouraged to read the book over winter break (but it's not required to do so).
 
