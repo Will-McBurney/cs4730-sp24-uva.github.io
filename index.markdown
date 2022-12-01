@@ -23,7 +23,7 @@ Upon successful completion of this course, students will:
 * Meets MWF 10:00 AM in OLS 018
 * Attendance _will_ be taken on multiple days, especially lab activity days.
 * There will be (on average) one lab day every week and Random Encounters (e.g. short one question quizzes) can occur on any day.
-* [Here is an example schedule from a previous semester.](https://docs.google.com/spreadsheets/d/1wQwxfKmuzyVG04oP-hLRcPhZ4eOfXqItqsI-94WnGEM/edit?usp=sharing).  Except for the fact that this was a semester I used Unity, most of the lecture content, order, etc. will be roughly similar.
+* [Here is an example schedule from a previous semester.](https://docs.google.com/spreadsheets/d/1wQwxfKmuzyVG04oP-hLRcPhZ4eOfXqItqsI-94WnGEM/edit?usp=sharing)  Except for the fact that this was a semester I used Unity, most of the lecture content, order, etc. will be roughly similar.
 * You will need to play 2 or 3 required games (_A Short Hike_ will be one of them) and at least one game of your own choosing.
 * Students will write multiple 2-3 page papers analyzing these games.
 * There will be a semester-long game project where teams of 3-4 students build games using MonoGame.
@@ -33,8 +33,10 @@ Upon successful completion of this course, students will:
 
 These games *must* be played for class, as you will be analyzing them for papers you will write in the class.
 
-* _A Short Hike_ by adamgryu - Available at https://adamgryu.itch.io/a-short-hike, Steam, Switch, and other major consoles (you will need to complete this game, but it only takes a few hours and is not skill intensive)
-* _Celeste_ by Maddy Makes Games - Available at https://mattmakesgames.itch.io/celeste, Steam, Switch and other major consoles (you will *not* need to fully complete this game, but you will need to get a few levels in)
+* _A Short Hike_ by adamgryu - Available at [itch.io](https://adamgryu.itch.io/a-short-hike), [Steam](https://store.steampowered.com/app/1055540/A_Short_Hike/?curator_clanid=21961041), [Switch](https://www.nintendo.com/store/products/a-short-hike-switch/), and other major consoles.  You will need to complete this game, but it only takes a few hours and is not skill intensive.
+* _Celeste_ by Maddy Makes Games - Available at [itch.io](https://mattmakesgames.itch.io/celeste), [Steam](https://store.steampowered.com/app/504230/Celeste/), [Switch](https://www.nintendo.com/store/products/celeste-switch/) and other major consoles.  You will *not* need to fully complete this game, but you will need to get a few levels in.
+
+You do not necessarily have to own a copy of these games if you want to play someone else's _legal_ copy of the game.
 
 You will also play a game of your own choosing.
 
