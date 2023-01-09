@@ -2,7 +2,7 @@
 layout: default
 title: Home
 nav_order: 1
-description: "CS 4730 - Computer Game Desgin"
+description: "CS 4730 | Computer Game Desgin"
 permalink: /
 ---
 
@@ -18,34 +18,11 @@ Upon successful completion of this course, students will:
 * Comprehend the computational theory used in video games design, as well as, to a lesser extent, related fields (artificial intelligence, computer graphics, networks, etc.);
 * Understand the theoretical topic of game theory, and how that applies to multi-player games (and, to a lesser extent, artificial intelligence).
 
-## Quick Info
-
-* Meets MWF 10:00 AM in OLS 018
-* Attendance _will_ be taken on multiple days, especially lab activity days.
-* There will be (on average) one lab day every week and Random Encounters (e.g. short one question quizzes) can occur on any day.
-* [Here is an example schedule from a previous semester.](https://docs.google.com/spreadsheets/d/1wQwxfKmuzyVG04oP-hLRcPhZ4eOfXqItqsI-94WnGEM/edit?usp=sharing)  Except for the fact that this was a semester I used Unity, most of the lecture content, order, etc. will be roughly similar.
-* You will need to play 2 or 3 required games (_A Short Hike_ will be one of them) and at least one game of your own choosing.
-* Students will write multiple 2-3 page papers analyzing these games.
-* There will be a semester-long game project where teams of 3-4 students build games using MonoGame.
-* Why are we not using Unity?  1. The learning curve for Unity and 2. Unity hides a lot of the interesting game engine things that I want students to learn, such as the game loop
-
-## Required Games
-
-These games *must* be played for class, as you will be analyzing them for papers you will write in the class.
-
-* _A Short Hike_ by adamgryu - Available at [itch.io](https://adamgryu.itch.io/a-short-hike), [Steam](https://store.steampowered.com/app/1055540/A_Short_Hike/?curator_clanid=21961041), [Switch](https://www.nintendo.com/store/products/a-short-hike-switch/), and other major consoles.  You will need to complete this game, but it only takes a few hours and is not skill intensive.
-* _Celeste_ by Maddy Makes Games - Available at [itch.io](https://mattmakesgames.itch.io/celeste), [Steam](https://store.steampowered.com/app/504230/Celeste/), [Switch](https://www.nintendo.com/store/products/celeste-switch/) and other major consoles.  You will *not* need to fully complete this game, but you will need to get a few levels in.
-
-You do not necessarily have to own a copy of these games if you want to play someone else's _legal_ copy of the game.
-
-You will also play a game of your own choosing.
-
-## Required Reading
-
-* Game Design Workshop: A Playcentric Approach to Creating Innovative Games by Tracy Fullerton - Available online as a PDF through UVA Library for free
-* Reality Is Broken: Why Games Make Us Better and How They Can Change the World by Jane McGonigal - [Amazon](https://www.amazon.com/Reality-Broken-Games-Better-Change/dp/0143120611)    
-
-I would *highly* suggest reading *Reality is Broken* over winter break, but it's not required to do so.
+[Online Coursepack]({{ site.data.externallinks.coursepack }}){: .btn  .btn-primary .mr-2 }
+[Gradescope]({{ site.data.externallinks.gradescope }}){: .btn .btn-primary .mr-2  }
+[Piazza]({{ site.data.externallinks.piazza }}){: .btn .btn-primary .mr-2  }
+[Collab]({{ site.data.externallinks.lms }}){: .btn .btn-primary .mr-2  }
+[GitHub]({{ site.data.externallinks.github_organization }}){: .btn .btn-primary .mr-2  }
 
 ## Staff Information
 __Instructor:__ Prof. Mark Sherriff   
