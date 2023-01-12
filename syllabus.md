@@ -74,7 +74,7 @@ Upon successful completion of this course, students will:
 ### Piazza
 {: .no_toc }
 
-Piazza @ [site.data.externallinks.piazza]({{ site.data.externallinks.piazza }})    
+Piazza @ [{{ site.data.externallinks.piazza }}]({{ site.data.externallinks.piazza }})    
 
 We will be using Piazza for the following:
 
