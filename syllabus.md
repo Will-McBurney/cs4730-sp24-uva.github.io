@@ -108,14 +108,14 @@ We will utilize a positive-reinforcement grading policy in this course. As the p
 | Assessment	| Who	| Instances	| Max XP 	| Max XP Avail |
 |:--------------|:-----|:---|:-----|:-----|
 |Random Encounters |	Small Groups or Individual |	min 10 |	10 |	min 100 |
-|Critical Analysis Papers |	Individual |	2 |	50 |	100 |
+|Critical Analysis Quests |	Individual |	2 |	50 |	100 |
+|Game Design Quests |	Individual |	3 |	50 |	150 |
+|Player's Choice Quest |	Individual |	1 |	50 |	50 |
 |Game Design Document |	Team |	1 |	50 |	50 |
 |Physical Game Prototype |	Team |	1 |	50 |	50 |
+|MonoGame Team Project | Team | 1 | 200 | 200 |
 |Mini-Boss Battle (Midterm) |	Individual |	1 |	150 |	150 |
 |Final Boss Battle (Final Exam) | Individual | 1 | 150 | 150 |
-|MonoGame Team Project | Team | 1 | 200 | 200 |
-|Player's Choice Game Activity |	Individual |	1 |	50 |	50 |
-|Game Design Quests |	Individual |	3 |	50 |	150 |
 | __Total Course XP__ | | | | 1000 |
 
 | Letter Grade | XP Required |
@@ -156,7 +156,7 @@ __Random Encounters:__
 * Students will pitch game ideas to the class at the beginning of the semester.
 * Students will then vote on the ideas, thus selecting the games they will be building on teams.
 * Team size will be three or four students.
-* Students must use the MonoGame frameworkd to build their games.
+* Students must use the MonoGame frameworke to build their games.
 * There will be multiple in-class labs as tutorials for MonoGame.
 
 ## Class Management
