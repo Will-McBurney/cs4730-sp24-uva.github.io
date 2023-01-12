@@ -47,13 +47,13 @@ Upon successful completion of this course, students will:
 ### Major Topics
 {: .no_toc }
 * What exactly are games?
-* Game design documents and storyboarding
-* Game engines
-* Game physics
-* Collision detection
+* Game design elements
+* Game engines and frameworks
+* Game physics and collision detection
 * Game mechanics
-* AI
-* Pathfinding
+* Level and character design
+* Prototyping
+* AI and pathfinding
 * Graphics / Lighting
 * Statistics / Probability / Game Theory
 * Game balancing
@@ -74,7 +74,7 @@ Upon successful completion of this course, students will:
 ### Piazza
 {: .no_toc }
 
-Piazza @ [TBD](#)    
+Piazza @ [site.data.externallinks.piazza]({{ site.data.externallinks.piazza }})    
 
 We will be using Piazza for the following:
 
@@ -92,7 +92,7 @@ We will not be using Piazza for:
 We will be using email for the following:
 
 * Personal issues that can and should only be handled by a professor
-* Team issues that need to be escalated beyond the TA
+* Team issues that need to be escalated
 
 We will not be using email for:
 
@@ -103,44 +103,60 @@ We will not be using email for:
 _PLEASE_ make sure to put "CS 4730" in the subject line somewhere so I can keep track of your request!  And please be patient with me in responding.  I receive A LOT of email and it's easy to get behind.  If there is a time-critical nature to your note, please let me know that as well.
 
 ## Assessment and Grading
-We will utilize a positive-reinforcement grading policy in this course. Your grade in this course will be based on experience points (XP). Every student begins the course with 0 XP.  As you complete assessments and quizzes, you will earn XP.  Some assessments will have a way to retake or resubmit to earn some of the XP that was not earned on the first attempt.  Please see individual assessments for more information regarding how this mechanic works.
+We will utilize a positive-reinforcement grading policy in this course. As the purpose of this class is for you to gain experience as a software developer working in a team on a larger-scale project, your grade in this course will be based on experience points (XP). Every student begins the course with 0 XP.  As you complete assessments, work on the project, defeat bosses (tests), complete Random Encounters (in-class activities), etc. you will earn XP.  Some assessments will have a way to retake or resubmit to earn some of the XP that was not earned on the first attempt.  Please see individual assessments for more information regarding how this mechanic works.
 
-| Assessment	| Who	| Max XP |
-|:--------------|:----|:-----|
-|Random Encounters |	Individual |	 |
-|Critical Analysis Papers |	Individual |	 |
-|Game Design Documents |	Individual and Team |  |
-|Midterm Mini-Boss |	Individual |  |
-|Final Boss |	Individual |  |
-|MonoGame Game Project  |	Team |  |
-| __Total Course XP__ | | ??? |
+| Assessment	| Who	| Instances	| Max XP 	| Max XP Avail |
+|:--------------|:-----|:---|:-----|:-----|
+|Random Encounters |	Small Groups or Individual |	min 10 |	10 |	min 100 |
+|Critical Analysis Papers |	Individual |	2 |	50 |	100 |
+|Game Design Document |	Team |	1 |	50 |	50 |
+|Physical Game Prototype |	Team |	1 |	50 |	50 |
+|Mini-Boss Battle (Midterm) |	Individual |	1 |	150 |	150 |
+|Final Boss Battle (Final Exam) | Individual | 1 | 150 | 150 |
+|MonoGame Team Project | Team | 1 | 200 | 200 |
+|Player's Choice Game Activity |	Individual |	1 |	50 |	50 |
+|Game Design Quests |	Individual |	3 |	50 |	150 |
+| __Total Course XP__ | | | | 1000 |
+
+| Letter Grade | XP Required |
+| ------------ | ----------- |
+| A+           | 1000        |
+| A            | 950         |
+| A-           | 900         |
+| B+           | 875         |
+| B            | 850         |
+| B-           | 825         |
+| C+           | 775         |
+| C            | 750         |
+| C-           | 700         |
+| D+           | 675         |
+| D            | 650         |
+| D-           | 625         |
 
 
 ### Assessment Notes
 {: .no_toc }
 
-__Mini-Boss and Final Boss:__   
-* There are two tests in the course - the Midterm Mini-Boss and the Final Boss (Final Exam).
+__Mini-Boss Battle and Final Boss Battle:__   
+* There are two tests in the course - the Mini-Boss Battle (Midterm) and the Final Boss Battle (Final Exam).
+* The dates for these are set on the course calendar.  Students that cannot make either of these dates _must_ inform the instructor at least 72 hours in advance.
+* Students with SDAC accommodations should make those known to the instructor at least 72 hours in advance and should proceed with scheduling a time with SDAC to take their test.
 
 __Critical Analysis:__    
-* Students will write multiple 2-3 page papers during the semester analyzing different video games. 
-* More instructions will be provided on the course website.
-
-__Game Design Documents:__
-* Students will write multiple game design documents during the semester, both for potential games that they might want to make some day and for their actual semester game project.  
-* More instructions will be provided on the course website.
+* Students will write at least two 3-4 page papers during the semester analyzing different video games. 
+* See the Critical Analysis section of the course website for more information.
 
 __Random Encounters:__
-* Random Encounters are short, in-class assessments to ascertain a student's understanding of a single concept we have been discussing recently. 
-* There will be multiple of these throughout the semester.
-* Missed Random Encounters cannot be made up, however you can "flee" from a given number, thus incurring no penalty.
+* Random encounters are short, in-class assessments to ascertain a student's understanding of a single concept we have been discussing recently. 
+* These could take the form of single-question quizzes, analyzing a game in class, or some other activity.
+* There will be a minimum of 10 of these throughout the semester.  However, there will likely be more than 10 and students can earn bonus XP for completing more random encounters.
+* Missed random encounters cannot be made up.
 
 ## Game Project in MonoGame
-
 * Students will pitch game ideas to the class at the beginning of the semester.
 * Students will then vote on the ideas, thus selecting the games they will be building on teams.
 * Team size will be three or four students.
-* Students must use the MonoGame engine to build their games.
+* Students must use the MonoGame frameworkd to build their games.
 * There will be multiple in-class labs as tutorials for MonoGame.
 
 ## Class Management
@@ -148,14 +164,14 @@ __Random Encounters:__
 ### Attendance
 {: .no_toc }
 
-* In-person attendance is required for this class, especially on lab activity days.
-* Attendance will be taken on all lab activity days.  There will be (on average) one lab day per week.
-* If you are going to miss a test, you must inform me more than 24 hours in advance to discuss your reason and options for making up the test (if possible).  In case of illness or emergency, please inform me when you are able to do so within reason.
+* In-person attendance is expected and generally required for this class, especially on lab activity days.
+* Attendance will be taken on all lab activity and random encounter days.  There will be (on average) one lab day per week.
 
 ### Late Policy
 {: .no_toc }
 
-TBD
+* In general, late work is not accepted.  If there is a late period for an assessment, this will be noted on the assessment itself and there will be a corresponding late window in Gradescope.
+* Exceptions to this rule must be approved by the instructor at least 24 hours in advance.
 
 ### This Syllabus
 {: .no_toc }
