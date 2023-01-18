@@ -13,6 +13,25 @@ nav_order: 4
 1. TOC
 {:toc}
 
+# Required Games
+
+## Quest Information
+{: .no_toc }
+<img style="float: left; padding: 10px" src="/assets/images/quest.png"> For this class, you are required to play two different games that we will analyze throughout the semester.
+
+| __A Short Hike__ by adamgryu | __Celeste__ by Maddy Makes Games |
+| :----------------------------: | :--------------------------------------: |
+| ![A Short Hike Title Card](/assets/images/ashorthike.png) | ![Celeste Title Card](/assets/images/celeste.png)
+| Available at: [itch.io](https://adamgryu.itch.io/a-short-hike), [Steam](https://store.steampowered.com/app/1055540/A_Short_Hike/), Nintendo eShop, and other platforms | Available at: [itch.io](https://mattmakesgames.itch.io/celeste), [Steam](https://store.steampowered.com/app/504230/Celeste/), Nintendo eShop, and other platforms
+| _Objective:_ Complete the main story of the game | _Objective:_ Complete through the beginning of Chapter 4 with and/or without assists turned on | 
+| _Estimated time to complete:_ 2 hours | _Estimated time to complete:_ 3 hours |
+
+_Note:_ We are going to be talking specifically about the assist options in _Celeste_.  Even if you can get to Chapter 4 without the assists, make sure to play the game with them at some point to see how they work.  Also, if you need to use the assists to make it to Chapter 4, that's fine.  Try to at least get through Chapter 1 without them, however.
+
+## Quest Submission
+{: .no_toc }
+<img style="float: left; padding: 10px" src="/assets/images/turnin.png">  No submission required specifically for playing the games.
+
 # Critical Analysis Quest
 
 First, watch this:
@@ -20,7 +39,7 @@ First, watch this:
 <iframe width="800" height="450" src="https://www.youtube.com/embed/bb3HQlFmfds" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Quest Information
-
+{: .no_toc }
 <img style="float: left; padding: 10px" src="/assets/images/quest.png"> What is a critical analysis, and why do we care?
 
 Critical analysis is not just a game review. We are not concerned with how many out of five stars, or any numbers from 0 to 10, or whether or not a game is “fun” (whatever that means to you).
@@ -51,7 +70,7 @@ Some questions to ask yourself during a critical analysis at various stages:
 NOTE: Literally just answering the above questions WILL NOT result in a good score.  I expect you to put some thought into how best analyze the game you are looking at.  Some of these questions make no sense for certain games and tossing "an answer" to them in your paper would be frowned upon.
 
 ## Quest Submission
-
+{: .no_toc }
 <img style="float: left; padding: 10px" src="/assets/images/turnin.png"> 
 
 Submit a PDF of your paper to the appropriate assignment in [Gradescope]({{ site.data.externallinks.gradescope }}).
