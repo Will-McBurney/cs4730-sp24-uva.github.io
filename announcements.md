@@ -12,3 +12,12 @@ nav_order: 6
 
 1. TOC
 {:toc}
+
+# January
+
+__Wednesday, January 18__
+
+* Welcome and Intro
+* Required Texts and Games
+* The Wait List
+* MonoGame

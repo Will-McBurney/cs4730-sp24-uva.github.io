@@ -20,12 +20,10 @@ Our course is an introductory course in video game design and production. We wil
 
 Site Last Updated: {{ site.time | date: '%A, %B %d, %Y @ %l:%M %p' }}
 
-__Wednesday, January 18__
+__Friday, January 20__
 
-* Welcome and Intro
-* Required Texts and Games
-* The Wait List
-* MonoGame
+* What is a game?  We'll discuss various definitions.
+* Discussing the first chapter of McGonigal
 
 ## Staff Information
 __Instructor:__ Prof. Mark Sherriff   
