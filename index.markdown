@@ -16,20 +16,11 @@ Our course is an introductory course in video game design and production. We wil
 [Collab]({{ site.data.externallinks.lms }}){: .btn .btn-primary .mr-2  }
 [GitHub]({{ site.data.externallinks.github_organization }}){: .btn .btn-primary .mr-2  }
 
-## Announcements
-
-Site Last Updated: {{ site.time | date: '%A, %B %d, %Y @ %l:%M %p' }}
-
-__Friday, January 20__
-
-* What is a game?  We'll discuss various definitions.
-* Discussing the first chapter of McGonigal
-
 ## Staff Information
 __Instructor:__ Prof. Mark Sherriff   
 Office: Rice 400   
-Office Hours: TBD   
+Office Hours: Wednesdays and Thursdays - 11:00 AM-12:30 PM    
 Email: [sherriff@virginia.edu](mailto:sherriff@virginia.edu)    
 Website: [http://marksherriff.com](http://marksherriff.com)    
 
-__Teaching Assistants:__ TBD    
+__Teaching Assistants:__ Timur Anvar, JC Crawley, Joseph Remines, Teddy Walsh

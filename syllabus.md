@@ -24,11 +24,11 @@ Mondays, Wednesdays, and Fridays @ 10:00 PM-10:50 AM in OLS 018
 ## Staff Information
 __Instructor:__ Prof. Mark Sherriff   
 Office: Rice 400   
-Office Hours: TBA  
+Office Hours: Wednesdays and Thursdays - 11:00 AM-12:30 PM   
 Email: [sherriff@virginia.edu](mailto:sherriff@virginia.edu)    
 Website: [http://marksherriff.com](http://marksherriff.com)    
 
-__Teaching Assistants:__ TBA
+__Teaching Assistants:__ Timur Anvar, JC Crawley, Joseph Remines, Teddy Walsh
 
 ## Course Description and Requirements
 
