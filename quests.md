@@ -75,7 +75,7 @@ NOTE: Literally just answering the above questions WILL NOT result in a good sco
 
 Submit a PDF of your paper to the appropriate assignment in [Gradescope]({{ site.data.externallinks.gradescope }}).
 
-[An example Critical Eye on Hearthstone from Spring 2014](https://cs4730.cs.virginia.edu/materials/HearthstoneCriticalEye.pdf)
+[An example Critical Eye on Hearthstone from Spring 2014](/assets/materials/HearthstoneCriticalEye.pdf)
 
 You will complete this assessment at least twice: 
 
