@@ -63,3 +63,7 @@ From the above issue report, the recommended course of action is to enter in the
 When you open VS and select New, a MonoGame Cross-Platform project template may appear as a Recent option. If not, go to the bottom under Other, then Custom, and select MonoGame Cross-Platform Desktop Application.
 
 Note, after around 30 days, VS will warn you that your license has expired and require you to sign in to your Microsoft account to proceed. Logging in to the SSO for UVA was sufficient for continued access. 
+
+## MonoGame Labs
+
+[MonoGame Lab 1 - BoxBattle](#)
