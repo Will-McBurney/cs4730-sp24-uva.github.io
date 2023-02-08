@@ -66,4 +66,4 @@ Note, after around 30 days, VS will warn you that your license has expired and r
 
 ## MonoGame Labs
 
-[MonoGame Lab 1 - BoxBattle](#)
+[MonoGame Lab 1 - BoxBattle](https://docs.google.com/document/d/1_FJr9w4_pNbO0EDbcuHplrzEjYAJ59EA1NznisrcDIM/edit?usp=sharing)
