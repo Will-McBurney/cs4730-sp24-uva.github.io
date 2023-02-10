@@ -31,6 +31,7 @@ We are using MonoGame 3.8.1 build 303 with Microsoft Visual Studio Community 202
 
 * [Spritesheet Animation](https://www.industrian.net/tutorials/using-sprite-sheets/)
 * [MonoGame Content Builder Information](https://docs.monogame.net/articles/tools/mgcb_editor.html)
+* [http://rbwhitaker.wikidot.com/monogame-2d-tutorials](http://rbwhitaker.wikidot.com/monogame-2d-tutorials)
 ## Installing MonoGame
 
 __Windows__ 
