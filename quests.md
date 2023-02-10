@@ -86,3 +86,30 @@ You will complete this assessment at least twice:
 If you choose your own game, it can be a game you have already played, although you may need to refresh your memory.  If you need some thoughts on what games to play, I'm happy to offer suggestions.  
 
 Some content here used with permission from [Game Design Concepts by Ian Schreiber](http://gamedesignconcepts.wordpress.com/2009/07/06/level-3-formal-elements-of-games/).
+
+
+# MonoGame: Level 1 - Animation and Control
+
+## Quest Information
+{: .no_toc }
+<img style="float: left; padding: 10px" src="/assets/images/quest.png"> Over the course of three levels, you will be building out some basic functionality for a game built on MonoGame.  Level 1 will focus on animation and control.  You are welcome to use any tutorials or example code you find, but make sure to cite any sources used in your code and in the submission to Gradescope.
+
+1. Accept the assignment from GitHub Classroom: [https://classroom.github.com/a/qa9BdJCd](https://classroom.github.com/a/qa9BdJCd)
+2. Clone the repo locally and create a new project inside this folder named "Level 1".
+3. Import a sprite sheet of your choosing, but it needs to be loosly a character with the following animation states for the noted XP:
+   * When standing still (either at the bottom of the Cornflower Blue window or a platform (invidible or not)), there should be a minimum 3 frame idle animation [5 XP]
+   * The idle animation should be mirrored when the character is turned left or right [5 XP]
+   * The character should be able to be controlled in the following way: A moves left, D moves right, W jumps [5 XP]
+   * Gravity should affect the character and bring it back down to a resting state in a "reasonable" way after they jump [10 XP]
+   * When the character jumps, there should be a switch to an appropriate jumping animation set [10 XP]
+   * Implement one other "action" of some kind with another animation set and map it to the space bar [10 XP] (Examples could include an attack animation, a slide animation, casting a spell, etc.)
+
+If you are looking for spritesheets and assets there are MANY available at [https://itch.io/game-assets](https://itch.io/game-assets) for free or for a small price/donation.
+
+## Quest Submission
+{: .no_toc }
+<img style="float: left; padding: 10px" src="/assets/images/turnin.png"> 
+
+Make sure to push the final version of your code to GitHub before the deadline.
+
+Answer the questions in [Gradescope]({{ site.data.externallinks.gradescope }}) under "MonoGame: Level 1" regarding your project [5 XP].
