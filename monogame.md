@@ -97,6 +97,7 @@ In many cases, such as using third-party services like we will be using, GitHub 
 In practice, using an SSH key is a better solution than using a password.  However, it does take some time and effort to set up.  If you’ve never used an SSH key before, it’s very similar to using your NetBadge certificate to login to Collab.  There are two files that are generated - one is your private key (which you keep on your computer) and one is your public key (that you give to GitHub and other places you want to login to).  It’s kind of like generating your own key/lock combination, where you can give anyone the lock!
 
 ### Recommended Tools
+{: .no_toc }
 
 * [GitKraken](https://www.gitkraken.com/)
 * [Tower](https://www.git-tower.com)
