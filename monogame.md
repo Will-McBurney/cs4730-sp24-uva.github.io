@@ -1,10 +1,10 @@
 ---
 layout: default
-title: MonoGame
+title: MonoGame / Tools
 nav_order: 5
 ---
 
-# MonoGame
+# MonoGame and Other Tools
 {: .no_toc }
 
 ## Table of Contents
@@ -15,7 +15,7 @@ nav_order: 5
 
 ## Basic Information
 
-We are using MonoGame 3.8.1 with Microsoft Visual Studio Community 2022
+We are using MonoGame 3.8.1 build 303 with Microsoft Visual Studio Community 2022
 
 ## Links and Official Samples
 
@@ -23,6 +23,14 @@ We are using MonoGame 3.8.1 with Microsoft Visual Studio Community 2022
 * [Getting Started with MonoGame](https://docs.monogame.net/articles/getting_started/0_getting_started.html)
 * [Official MonoGame Example Projects](https://github.com/MonoGame/MonoGame.Samples)
 
+## MonoGame Labs
+
+* [MonoGame Lab 1 - BoxBattle](https://docs.google.com/document/d/1_FJr9w4_pNbO0EDbcuHplrzEjYAJ59EA1NznisrcDIM/edit?usp=sharing)
+
+## MonoGame Tutorials
+
+* [Spritesheet Animation](https://www.industrian.net/tutorials/using-sprite-sheets/)
+* [MonoGame Content Builder Information](https://docs.monogame.net/articles/tools/mgcb_editor.html)
 ## Installing MonoGame
 
 __Windows__ 
@@ -64,6 +72,25 @@ When you open VS and select New, a MonoGame Cross-Platform project template may 
 
 Note, after around 30 days, VS will warn you that your license has expired and require you to sign in to your Microsoft account to proceed. Logging in to the SSO for UVA was sufficient for continued access. 
 
-## MonoGame Labs
+## Git Resources
+![Git Cheat Sheet](/assets/images/git-cheat-sheet.png?raw=true "Git Cheat Sheet")
 
-[MonoGame Lab 1 - BoxBattle](https://docs.google.com/document/d/1_FJr9w4_pNbO0EDbcuHplrzEjYAJ59EA1NznisrcDIM/edit?usp=sharing)
+### Tutorials
+{: .no_toc }
+There are several tutorials you should go through if you are not familiar with GitHub. 
+
+* [https://try.github.io/](https://try.github.io/)
+* [https://learngitbranching.js.org/](https://learngitbranching.js.org/)
+* [https://rogerdudler.github.io/git-guide/](https://rogerdudler.github.io/git-guide/)
+* [https://guides.github.com/introduction/flow/](https://guides.github.com/introduction/flow/)
+* [https://guides.github.com/activities/hello-world/](https://guides.github.com/activities/hello-world/)
+* [https://kbroman.org/github_tutorial/](https://kbroman.org/github_tutorial/)
+
+### Authenticating to GitHub
+{: .no_toc }
+
+In many cases, such as using third-party services like we will be using, GitHub requires you to authenticate using an SSH key or GitHub token.  
+
+* [Information on how to setup an SSH key and add it to your GitHub account for logging in](https://docs.github.com/en/github/authenticating-to-github/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent)
+
+In practice, using an SSH key is a better solution than using a password.  However, it does take some time and effort to set up.  If you’ve never used an SSH key before, it’s very similar to using your NetBadge certificate to login to Collab.  There are two files that are generated - one is your private key (which you keep on your computer) and one is your public key (that you give to GitHub and other places you want to login to).  It’s kind of like generating your own key/lock combination, where you can give anyone the lock!
