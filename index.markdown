@@ -24,3 +24,11 @@ Email: [sherriff@virginia.edu](mailto:sherriff@virginia.edu)
 Website: [http://marksherriff.com](http://marksherriff.com)    
 
 __Teaching Assistants:__ Timur Anvar, JC Crawley, Joseph Remines, Teddy Walsh
+
+__TA Office Hours:__
+
+* Timur Anvar: Monday, Tuesday, and Wednesday - 3:00-5:00 PM
+* Joseph Remines: Monday and Wednesday - 3:30-4:30 PM / Friday - 1:00-2:00 PM
+* JC Crawley: TBD
+
+_All TA Office Hours are in Rice 442._
