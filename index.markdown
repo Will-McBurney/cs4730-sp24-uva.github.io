@@ -29,6 +29,6 @@ __TA Office Hours:__
 
 * Timur Anvar: Monday, Tuesday, and Wednesday - 3:00-5:00 PM
 * Joseph Remines: Monday and Wednesday - 3:30-4:30 PM / Friday - 1:00-2:00 PM
-* JC Crawley: TBD
+* JC Crawley: Tuesdays and Thursdays - 2:00-4:00 PM / Wednesdays - 5:00-6:00 PM
 
 _All TA Office Hours are in Rice 442._
