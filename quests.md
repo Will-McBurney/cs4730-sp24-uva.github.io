@@ -112,4 +112,4 @@ If you are looking for spritesheets and assets there are MANY available at [http
 
 Make sure to push the final version of your code to GitHub before the deadline.
 
-Answer the questions in [Gradescope]({{ site.data.externallinks.gradescope }}) under "MonoGame: Level 1" regarding your project [5 XP].
+Answer the questions in [Gradescope]({{ site.data.externallinks.gradescope }}) under "MonoGame - Level 1: Animation and Control" regarding your project [5 XP].
