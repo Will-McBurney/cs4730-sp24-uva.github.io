@@ -169,3 +169,21 @@ There are lots of resources you can use to learn how to use Tiled with MonoGame.
 Make sure to push the final version of your code to GitHub before the deadline.
 
 Answer the questions in [Gradescope]({{ site.data.externallinks.gradescope }}) under "MonoGame - Level 3: Tiled Level Design" regarding your project [5 XP].
+
+# Team Game Project
+
+## Quest Information - UNDER CONSTRUCTION
+{: .no_toc }
+<img style="float: left; padding: 10px" src="/assets/images/quest.png"> 
+
+_More information to come here!_
+
+### GitHub Classroom
+
+One member of your team should accept the GitHub Classroom assignment at [https://classroom.github.com/a/lSFanMG-](https://classroom.github.com/a/lSFanMG-) and name the repo the name of your game.
+
+## Quest Submission
+{: .no_toc }
+<img style="float: left; padding: 10px" src="/assets/images/turnin.png"> 
+
+_More information to come here!_
