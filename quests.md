@@ -179,6 +179,7 @@ Answer the questions in [Gradescope]({{ site.data.externallinks.gradescope }}) u
 _More information to come here!_
 
 ### GitHub Classroom
+{: .no_toc }
 
 One member of your team should accept the GitHub Classroom assignment at [https://classroom.github.com/a/lSFanMG-](https://classroom.github.com/a/lSFanMG-) and name the repo the name of your game.
 
