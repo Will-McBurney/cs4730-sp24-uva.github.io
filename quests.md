@@ -127,7 +127,7 @@ Answer the questions in [Gradescope]({{ site.data.externallinks.gradescope }}) u
    * Platform type 1 should be completely solid on all sides.  The player sprite cannot jump up through it from the bottom or the side.  The player sprite should land on it and not fall through if they jump on top of it.  [10 XP]
    * Platform type 2 should only be solid from the top.  The player sprite should be able to jump up through the sprite and then land on top.  Same with jumping from the side or at an angle.  [10 XP]
    * The Box sprite should be sitting on the type 2 Platform.  The player sprite should be able to move it by pushing against it.  When the box is no longer touching the platform, it should fall to the ground (which could just be the bottom of the window or you could make an actual ground).  [10 XP]
-   * Your "action" button (space bar) from Level 1 should knock the box in a straight line until it collides with another object.  Note that if your gravity is working in the item above, the box should fall as it's flying in a given direction [10 XP]
+   * Your "action" button (space bar) from Level 1 should knock the box in a straight line until it collides with another object.  Note that if your gravity is working in the item above, the box should fall as it's flying in a given direction. [10 XP]
 
 If you are looking for spritesheets and assets there are MANY available at [https://itch.io/game-assets](https://itch.io/game-assets) for free or for a small price/donation.
 
