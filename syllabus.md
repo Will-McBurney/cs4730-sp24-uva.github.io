@@ -109,11 +109,10 @@ We will utilize a positive-reinforcement grading policy in this course. As the p
 |:--------------|:-----|:---|:-----|:-----|
 |Random Encounters |	Small Groups or Individual |	min 10 |	10 |	min 100 |
 |Critical Analysis Quests |	Individual |	2 |	50 |	100 |
-|Game Design Quests |	Individual |	3 |	50 |	150 |
-|Player's Choice Quest |	Individual |	1 |	50 |	50 |
+|MonoGame Quests |	Individual |	3 |	50 |	150 |
 |Game Design Document |	Team |	1 |	50 |	50 |
 |Physical Game Prototype |	Team |	1 |	50 |	50 |
-|MonoGame Team Project | Team | 1 | 200 | 200 |
+|MonoGame Team Project | Team | 1 | 250 | 250 |
 |Mini-Boss Battle (Midterm) |	Individual |	1 |	150 |	150 |
 |Final Boss Battle (Final Exam) | Individual | 1 | 150 | 150 |
 | __Total Course XP__ | | | | 1000 |
