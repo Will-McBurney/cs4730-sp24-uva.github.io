@@ -188,3 +188,30 @@ One member of your team should accept the GitHub Classroom assignment at [https:
 <img style="float: left; padding: 10px" src="/assets/images/turnin.png"> 
 
 _More information to come here!_
+
+# Team Game Physical Prototype
+
+## Quest Information
+{: .no_toc }
+<img style="float: left; padding: 10px" src="/assets/images/quest.png"> Using the materials provided, create a physical prototype of some aspect of your game.  This could be a level or a mechanic.  The goal is to do a "rough draft" of some aspect of your game to help you think about how you will translate your design into code.
+
+## Quest Submission
+{: .no_toc }
+<img style="float: left; padding: 10px" src="/assets/images/turnin.png"> 
+
+One member of your team should fill out the following document: [Physical Prototype](https://docs.google.com/document/d/1xAbtTfR1nKugrc1_TnFsWR_ZMQO8VLz_PgU0n6BCS8A/edit?usp=sharing)
+
+This should be submitted into Gradescope, making sure to add all team members when submitting.
+
+
+# Team Game Design Document
+
+## Quest Information
+{: .no_toc }
+<img style="float: left; padding: 10px" src="/assets/images/quest.png"> Based on the generic game design document by Benjamin Stanley and Alec Markarian @ [https://dkrikun.files.wordpress.com/2016/11/game-templatea-strategy.pdf](https://dkrikun.files.wordpress.com/2016/11/game-templatea-strategy.pdf), complete your own game design document from this Google Doc template: [https://docs.google.com/document/d/19fnqYeRXly8SpMzW-6bxTWp-Dn4pprCihvJw_edlhtE/edit?usp=sharing](https://docs.google.com/document/d/19fnqYeRXly8SpMzW-6bxTWp-Dn4pprCihvJw_edlhtE/edit?usp=sharing).
+
+## Quest Submission
+{: .no_toc }
+<img style="float: left; padding: 10px" src="/assets/images/turnin.png"> 
+
+One member should submit the design document as a PDF into Gradescope, making sure to add all team members when submitting.
