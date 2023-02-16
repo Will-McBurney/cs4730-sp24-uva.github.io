@@ -183,6 +183,29 @@ _More information to come here!_
 
 One member of your team should accept the GitHub Classroom assignment at [https://classroom.github.com/a/lSFanMG-](https://classroom.github.com/a/lSFanMG-) and name the repo the name of your game.
 
+### Project Check #1
+
+At this stage, you must have:
+
+* The repo initialized
+* The project created and can launch to at least Cornflower Blue
+* Some ideas/examples of what your sprites/assets could be
+
+You do not have to have any significant functionality at this point.  However, note that your design document is also due on the same day!
+
+### Project Check #2
+
+At this stage, you must have:
+
+* Your basic mechanics working to the point that they can be demoed
+* More sprites/assets in the game
+
+You do not have to have done any significant level design at this point.
+
+### Project Beta
+
+At this stage, you must have at least two levels (or whatever equivalent that is for your game) that are fully functional and can be played by someone NOT on your team without significant instruction or guidance.  We will be doing playtesting of games and the game needs to be up and running!
+
 ## Quest Submission
 {: .no_toc }
 <img style="float: left; padding: 10px" src="/assets/images/turnin.png"> 
