@@ -172,16 +172,51 @@ Answer the questions in [Gradescope]({{ site.data.externallinks.gradescope }}) u
 
 # Team Game Project
 
-## Quest Information - UNDER CONSTRUCTION
+## Quest Information
 {: .no_toc }
-<img style="float: left; padding: 10px" src="/assets/images/quest.png"> 
+<img style="float: left; padding: 10px" src="/assets/images/quest.png"> Build a game!  Okay, you need more than that... :-)  Every game will be different, so there's no way to say "you must have X feature" in reality.  But here is how the staff will evaluate your games.
 
-_More information to come here!_
+__Is it a working game?__ 
 
-### GitHub Classroom
+Simply put, the game should function without any obvious bugs or failures.  The game should:
+
+* play and feel like a completed product, not something still in beta form;
+* have an obvious start and end to the game, with the ability to "play again," depending on the nature of the game;
+* have working and understandable controls.
+
+Points are earned for how well the game performs during playtesting.
+
+__Is the game engaging?__
+
+Does the game grab the player and make them want to play more?  A successful game will:
+
+* draw the player in and entice them to keep playing;
+* have a unique and interesting mechanic;
+* feel good to play (appropriate controls, difficulty, etc.);
+* be fun/enjoyable to play.
+
+__Does the game meet its aesthetic goals?__
+
+Can a staff member quickly and easily identify one or two aesthetics from your game?  Does your game focus on and emphasize those aesthetics?
+
+__How polished / refined is the game?__
+
+We do not expect perfect art assets or anything like that.  We do expect the game to look “put together,” is playable, and feels like something that could be given to someone not in the class and they could play it without a ton of assistance.
+
+__How did the team work together?__
+
+Game documentation, team evaluations, use of GitHub all fall under this category.  XP is earned here through:
+
+* high evaluation marks from teammates;
+* the documentation submitted follows the outline and contains all necessary information;
+* GitHub was used effectively, showing good software development techniques.
+
+### Setup and GitHub Classroom
 {: .no_toc }
 
-One member of your team should accept the GitHub Classroom assignment at [https://classroom.github.com/a/lSFanMG-](https://classroom.github.com/a/lSFanMG-) and name the repo the name of your game.
+* One member of your team should accept the GitHub Classroom assignment at [https://classroom.github.com/a/lSFanMG-](https://classroom.github.com/a/lSFanMG-) and name the repo the name of your game.
+* I expect your team to use good development practices with git, branching, etc.
+* You can use any frameworks/libraries that you find available.  Make sure to cite them!
 
 ### Project Check #1
 
@@ -210,7 +245,16 @@ At this stage, you must have at least two levels (or whatever equivalent that is
 {: .no_toc }
 <img style="float: left; padding: 10px" src="/assets/images/turnin.png"> 
 
-_More information to come here!_
+In the root of your repository, create a `README.md` file that contains the following sections in this order, with headings identified to make it easier to read through the document.  Also include this information in a PDF that is submitted to Gradescope.
+
+* Name of game
+* List of all team members, including computing IDs
+* GitHub link (PDF for Gradescope Only)
+* Game pitch - Two to three sentences describing your game (you can reuse old text for this from previous assignments)
+* How to play - What do we need to know in order to play the game?  Controls?  Setup?  Anything and everything you think we need.
+* Amount/type of content available - Explain how many levels, what major features are available, etc, basically so we don’t miss anything you created
+* Playtesting report - Explain exactly what happened when you had others test your game; note you MUST have people other than CS 4730 students playtest your game!
+* Lessons learned - What did you learn about game development through this process?
 
 # Team Game Physical Prototype
 
