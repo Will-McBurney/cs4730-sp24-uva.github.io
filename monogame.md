@@ -15,7 +15,7 @@ nav_order: 5
 
 ## Basic Information
 
-We are using MonoGame 3.8.1 build 303 with Microsoft Visual Studio Community 2022
+We are using MonoGame 3.8.1 build 303 with Microsoft Visual Studio Community 2022.
 
 ## Links and Official Samples
 
