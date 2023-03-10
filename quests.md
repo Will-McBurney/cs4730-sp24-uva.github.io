@@ -260,7 +260,14 @@ In the root of your repository, create a `README.md` file that contains the foll
 
 ## Quest Information
 {: .no_toc }
-<img style="float: left; padding: 10px" src="/assets/images/quest.png"> Using the materials provided, create a physical prototype of some aspect of your game.  This could be a level or a mechanic.  The goal is to do a "rough draft" of some aspect of your game to help you think about how you will translate your design into code.
+<img style="float: left; padding: 10px" src="/assets/images/quest.png"> Using the materials provided, create a physical prototype of some aspect of your game.  This could be a level or a mechanic, but it should be something that is:
+
+* Representative of your game
+* Shows part of your design process for your game
+* Is "playable" in some fashion
+* Shows some thought was put into the design
+
+Basically, the goal is to do a "rough draft" of some aspect of your game to help you think about how you will translate your design into code.  Consult the prototyping chapters of Fullerton for more information.
 
 ## Quest Submission
 {: .no_toc }
@@ -268,7 +275,11 @@ In the root of your repository, create a `README.md` file that contains the foll
 
 One member of your team should fill out the following document: [Physical Prototype](https://docs.google.com/document/d/1xAbtTfR1nKugrc1_TnFsWR_ZMQO8VLz_PgU0n6BCS8A/edit?usp=sharing)
 
-This should be submitted into Gradescope, making sure to add all team members when submitting.
+As a part of this document, you MUST have pictures of your prototype!  
+
+We will also be demoing these in class on Monday, March 20.  Make sure yours is ready by then!  (The final version of the document is not due until 11:59 that night.)
+
+Submit the document into Gradescope, making sure to add all team members when submitting.
 
 
 # Team Game Design Document
