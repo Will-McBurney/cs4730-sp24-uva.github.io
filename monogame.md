@@ -23,6 +23,10 @@ We are using MonoGame 3.8.1 build 303 with Microsoft Visual Studio Community 202
 * [Getting Started with MonoGame](https://docs.monogame.net/articles/getting_started/0_getting_started.html)
 * [Official MonoGame Example Projects](https://github.com/MonoGame/MonoGame.Samples)
 
+## Game Design Guides
+
+* ["Let's Talk Games" - Game Design Primer](/assets/materials/GameDesignPrimer.pdf) by Timur Anvar
+
 ## MonoGame Labs and Tutorials
 
 * [MonoGame Lab 1 - BoxBattle](https://docs.google.com/document/d/1_FJr9w4_pNbO0EDbcuHplrzEjYAJ59EA1NznisrcDIM/edit?usp=sharing)
