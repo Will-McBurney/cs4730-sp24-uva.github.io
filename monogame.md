@@ -31,6 +31,7 @@ We are using MonoGame 3.8.1 build 303 with Microsoft Visual Studio Community 202
 
 * [MonoGame Lab 1 - BoxBattle](https://docs.google.com/document/d/1_FJr9w4_pNbO0EDbcuHplrzEjYAJ59EA1NznisrcDIM/edit?usp=sharing)
 * [Using the MGCB Editor](https://www.cs4730.org/modules/monogame/mgcb-tutorial/)
+* [Tiled Tutorial](https://www.cs4730.org/modules/monogame/tiled/)
 
 ## MonoGame Tutorials (External)
 
