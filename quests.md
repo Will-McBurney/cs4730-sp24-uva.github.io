@@ -259,6 +259,8 @@ In the root of your repository, create a `README.md` file that contains the foll
 * Amount/type of content available - Explain how many levels, what major features are available, etc, basically so we don’t miss anything you created
 * Lessons learned - What did you learn about game development through this process?
 
+[Team Game Final Submission Document Template](https://docs.google.com/document/d/1zhqKBV7OHbZoCVR6CzlDwDwYkzRhCN8ccM4Gmz6dU7A/edit?usp=sharing)
+
 # Team Game Physical Prototype
 
 ## Quest Information
