@@ -257,7 +257,6 @@ In the root of your repository, create a `README.md` file that contains the foll
 * Game pitch - Two to three sentences describing your game (you can reuse old text for this from previous assignments)
 * How to play - What do we need to know in order to play the game?  Controls?  Setup?  Anything and everything you think we need.
 * Amount/type of content available - Explain how many levels, what major features are available, etc, basically so we don’t miss anything you created
-* Playtesting report - Explain exactly what happened when you had others test your game; note you MUST have people other than CS 4730 students playtest your game!
 * Lessons learned - What did you learn about game development through this process?
 
 # Team Game Physical Prototype
