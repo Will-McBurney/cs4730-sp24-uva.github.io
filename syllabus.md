@@ -4,6 +4,8 @@ title: Syllabus
 nav_order: 2
 ---
 
+**Spring 2024** - This page is under construction, and semester details are not finalized.
+
 # Course Syllabus
 {: .no_toc }
 
@@ -15,26 +17,26 @@ nav_order: 2
 
 ## Basic Info
 {: .no_toc }
-Spring 2023 Semester   
-https://s23.cs4730.games   
+Spring 2024 Semester   
+   
 
 ## Lecture Sessions
-Mondays, Wednesdays, and Fridays @ 10:00 PM-10:50 AM in OLS 018   
+Tuesday/Thursday @ 2:00 PM-3:15 PM in Thornton Hall A120  
 
 ## Staff Information
-__Instructor:__ Prof. Mark Sherriff   
-Office: Rice 400   
-Office Hours: Wednesdays and Thursdays - 11:00 AM-12:30 PM   
-Email: [sherriff@virginia.edu](mailto:sherriff@virginia.edu)    
-Website: [http://marksherriff.com](http://marksherriff.com)    
+__Instructor:__ Prof. Will McBurney  
+Office: Rice 404
+Office Hours: Wednesdays and Thursdays - TBD  
+Email: [mcburney@virginia.edu](mailto:mcburney@virginia.edu)    
+Website: [https://www.cs.virginia.edu/~pm8fc/](https://www.cs.virginia.edu/~pm8fc/)    
 
-__Teaching Assistants:__ Timur Anvar, JC Crawley, Joseph Remines, Teddy Walsh
+__Teaching Assistants:__ Timur Anvar, TBD
 
 ## Course Description and Requirements
 
 _This course will introduce students to the concepts and tools used in the development of modern 2-D and 3-D real-time interactive computer video games. Topics covered in this include graphics, parallel processing, human-computer interaction, networking, artificial intelligence, and software engineering._ -SIS Course Description
 
-Our course is an introductory course in video game design and production. We will focus on both the design and technical aspects of creating a game, from concept inception and prototyping through coding and playtesting.
+Our course is an introductory course in video game design and production. We will focus on both the design and technical aspects of creating a game, from concept inception and prototyping through coding and play-testing.
 
 Upon successful completion of this course, students will:
 

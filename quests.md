@@ -4,6 +4,8 @@ title: Quests
 nav_order: 4
 ---
 
+**Spring 2024** - This page is under construction, and semester details are not finalized.
+
 # Game Design Quests and Assessments
 {: .no_toc }
 

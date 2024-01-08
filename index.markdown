@@ -17,18 +17,16 @@ Our course is an introductory course in video game design and production. We wil
 [GitHub]({{ site.data.externallinks.github_organization }}){: .btn .btn-primary .mr-2  }
 
 ## Staff Information
-__Instructor:__ Prof. Mark Sherriff   
-Office: Rice 400   
-Office Hours: Wednesdays and Thursdays - 11:00 AM-12:30 PM    
-Email: [sherriff@virginia.edu](mailto:sherriff@virginia.edu)    
-Website: [http://marksherriff.com](http://marksherriff.com)    
+__Instructor:__ Prof. Will McBurney  
+Office: Rice 404
+Office Hours: TBD  
+Email: [mcburney@virginia.edu](mailto:mcburney@virginia.edu)    
+Website: [https://www.cs.virginia.edu/~pm8fc/](https://www.cs.virginia.edu/~pm8fc/)
 
-__Teaching Assistants:__ Timur Anvar, JC Crawley, Joseph Remines, Teddy Walsh
+__Teaching Assistants:__ Timur Anvar, TBD
 
 __TA Office Hours:__
 
-* Timur Anvar: Monday, Tuesday, and Wednesday - 3:00-5:00 PM
-* Joseph Remines: Monday and Wednesday - 3:30-4:30 PM / Friday - 1:00-2:00 PM
-* JC Crawley: Tuesdays and Thursdays - 2:00-4:00 PM / Wednesdays - 5:00-6:00 PM
+TBD
 
 _All TA Office Hours are in Rice 442._

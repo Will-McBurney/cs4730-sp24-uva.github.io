@@ -19,13 +19,12 @@
 # in the templates via {{ site.myvariable }}.
 
 title: CS 4730
-email: sherriff@virginia.edu
+email: mcburney@virginia.edu
 description: >- # this means to ignore newlines until "baseurl:"
-  CS 4730: Computer Game Design - Spring 2023 (UVA)
+  CS 4730: Computer Game Design - Spring 2024 (UVA)
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: marksherriff
-github_username:  marksherriff
+github_username:  Will-McBurney
 
 # Build settings
 # theme: "just-the-docs"
