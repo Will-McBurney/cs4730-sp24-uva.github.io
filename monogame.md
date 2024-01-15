@@ -1,13 +1,16 @@
 ---
 layout: default
-title: MonoGame / Tools
-nav_order: 5
+title: MonoGame 
+nav_order: 6
 ---
 
-**Spring 2024** - We will be using Unity, not Monogame
+
 
 # MonoGame and Other Tools
 {: .no_toc }
+
+
+**Spring 2024** - We will be using Unity, not Monogame. This page is left up for posterity.
 
 ## Table of Contents
 {: .no_toc .text-delta }

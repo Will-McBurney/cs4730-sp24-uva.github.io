@@ -63,8 +63,8 @@ Upon successful completion of this course, students will:
 ### Course Requirements
 {: .no_toc }
 1. Prereq: Old Curriculum - CS 2150 / New Curriculum - CS 3140
-2. __MUST__ attend class regularly.
-3. You will be expected to learn programming languages and platforms on your own in this class! If you don’t feel comfortable with this, please talk to Prof. Sherriff as soon as possible!
+2. __MUST__ attend class regularly. This is not a class that "can be taken online". In person attendance and participation will be a grade factor.
+3. You will be expected to learn programming languages and platforms on your own in this class! If you don’t feel comfortable with this, please talk to Prof. McBurney as soon as possible!
 
 ### Textbooks
 {: .no_toc }
@@ -99,7 +99,7 @@ We will be using email for the following:
 We will not be using email for:
 
 * Regrades (use Gradescope first, then office hours only if not resolved)
-* Tech help (use Piazza)
+* Tech help (use Piazza or Office Hours)
 * Project questions (use Piazza)
 
 _PLEASE_ make sure to put "CS 4730" in the subject line somewhere so I can keep track of your request!  And please be patient with me in responding.  I receive A LOT of email and it's easy to get behind.  If there is a time-critical nature to your note, please let me know that as well.
@@ -107,17 +107,17 @@ _PLEASE_ make sure to put "CS 4730" in the subject line somewhere so I can keep 
 ## Assessment and Grading
 We will utilize a positive-reinforcement grading policy in this course. As the purpose of this class is for you to gain experience as a software developer working in a team on a larger-scale project, your grade in this course will be based on experience points (XP). Every student begins the course with 0 XP.  As you complete assessments, work on the project, defeat bosses (tests), complete Random Encounters (in-class activities), etc. you will earn XP.  Some assessments will have a way to retake or resubmit to earn some of the XP that was not earned on the first attempt.  Please see individual assessments for more information regarding how this mechanic works.
 
-| Assessment	| Who	| Instances	| Max XP 	| Max XP Avail |
-|:--------------|:-----|:---|:-----|:-----|
-|Random Encounters |	Small Groups or Individual |	min 10 |	10 |	min 100 |
-|Critical Analysis Quests |	Individual |	2 |	50 |	100 |
-|MonoGame Quests |	Individual |	3 |	50 |	150 |
-|Game Design Document |	Team |	1 |	50 |	50 |
-|Physical Game Prototype |	Team |	1 |	50 |	50 |
-|MonoGame Team Project | Team | 1 | 250 | 250 |
-|Mini-Boss Battle (Midterm) |	Individual |	1 |	150 |	150 |
-|Final Boss Battle (Final Exam) | Individual | 1 | 150 | 150 |
-| __Total Course XP__ | | | | 1000 |
+| Assessment	                    | Who	| Instances	| Max XP 	| Max XP Avail |
+|:-------------------------------|:-----|:---|:-----|:-----|
+| Random Encounters              |	Small Groups or Individual |	min 10 |	10 |	min 100 |
+| Critical Analysis Quests       |	Individual |	2 |	50 |	100 |
+| Unity Quests                   |	Individual |	3 |	50 |	150 |
+| Game Design Document           |	Team |	1 |	50 |	50 |
+| Physical Game Prototype        |	Team |	1 |	50 |	50 |
+| MonoGame Team Project          | Team | 1 | 250 | 250 |
+| Mini-Boss Battle (Midterm)     |	Individual |	1 |	150 |	150 |
+| Final Boss Battle (Final Exam) | Individual | 1 | 150 | 150 |
+| __Total Course XP__            | | | | 1000 |
 
 | Letter Grade | XP Required |
 | ------------ | ----------- |
@@ -151,14 +151,14 @@ __Random Encounters:__
 * Random encounters are short, in-class assessments to ascertain a student's understanding of a single concept we have been discussing recently. 
 * These could take the form of single-question quizzes, analyzing a game in class, or some other activity.
 * There will be a minimum of 10 of these throughout the semester.  However, there will likely be more than 10 and students can earn bonus XP for completing more random encounters.
-* Missed random encounters cannot be made up.
+* **Missed random encounters cannot be made up.**
 
-## Game Project in MonoGame
+## Game Project in Unity
 * Students will pitch game ideas to the class at the beginning of the semester.
 * Students will then vote on the ideas, thus selecting the games they will be building on teams.
 * Team size will be three or four students.
-* Students must use the MonoGame frameworke to build their games.
-* There will be multiple in-class labs as tutorials for MonoGame.
+* Students must use the Unity framework to build their games.
+* There will be multiple in-class labs as tutorials for Unity.
 
 ## Class Management
 
@@ -167,6 +167,7 @@ __Random Encounters:__
 
 * In-person attendance is expected and generally required for this class, especially on lab activity days.
 * Attendance will be taken on all lab activity and random encounter days.  There will be (on average) one lab day per week.
+* Lectures will not be recorded.
 
 ### Late Policy
 {: .no_toc }
@@ -199,7 +200,7 @@ _Summary_:
 * Know the honor code
 * Work with your team, but not any other team
 * Using code from other students (from any semester) is an honor violation
-* Using publically-available example code and libraries is fine, but you must cite your resources
+* Using publicly-available example code and libraries is fine, but you must cite your resources
 * More information on what is allowed will be included with each assignment if necessary
 * It never hurts to ask the staff what is allowed or not allowed!
 

@@ -2,7 +2,7 @@
 layout: default
 title: Home
 nav_order: 1
-description: "CS 4730 | Computer Game Desgin"
+description: "CS 4730 | Computer Game Design"
 permalink: /
 ---
 

@@ -21,14 +21,14 @@ nav_order: 4
 {: .no_toc }
 <img style="float: left; padding: 10px" src="/assets/images/quest.png"> For this class, you are required to play two different games that we will analyze throughout the semester.
 
-| __A Short Hike__ by adamgryu | __Celeste__ by Maddy Makes Games |
-| :----------------------------: | :--------------------------------------: |
-| ![A Short Hike Title Card](/assets/images/ashorthike.png) | ![Celeste Title Card](/assets/images/celeste.png)
-| Available at: [itch.io](https://adamgryu.itch.io/a-short-hike), [Steam](https://store.steampowered.com/app/1055540/A_Short_Hike/), Nintendo eShop, and other platforms | Available at: [itch.io](https://mattmakesgames.itch.io/celeste), [Steam](https://store.steampowered.com/app/504230/Celeste/), Nintendo eShop, and other platforms
-| _Objective:_ Complete the main story of the game | _Objective:_ Complete through the beginning of Chapter 4 with and/or without assists turned on | 
-| _Estimated time to complete:_ 2 hours | _Estimated time to complete:_ 3 hours |
+|                                                                         __Vampire Survivors_ by poncle                                                                         |                                                              __EastShade__ by Eastshade Studios                                                              |
+|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:------------------------------------------------------------------------------------------------------------------------------------------------------------:|
+|                                                     ![Vampire Survivors Title Card](/assets/images/vampire_survivors.jpg)                                                      |                                                    ![Eastshade Title Card](/assets/images/eastshade.jpg)                                                     |
+| Available at: [itch.io](https://poncle.itch.io/vampire-survivors), [Steam](https://store.steampowered.com/app/1794680/Vampire_Survivors/), Nintendo eShop, and other platforms | Available at: [itch.io](https://eastshadestudios.itch.io/eastshade), [Steam](https://store.steampowered.com/app/715560/Eastshade/), and on Playstation/Xbbox |
+|                                                      _Objective:_ Reach Stage 3: Dairy Plant (you do not need to beat it)                                                      |                                             _Objective:_ Complete at least 3 of the 4 main paintings in the game                                             | 
+|                                                                      _Estimated time to complete:_  hours                                                                      |                                                            _Estimated time to complete:_ 7 hours                                                             |
 
-_Note:_ We are going to be talking specifically about the assist options in _Celeste_.  Even if you can get to Chapter 4 without the assists, make sure to play the game with them at some point to see how they work.  Also, if you need to use the assists to make it to Chapter 4, that's fine.  Try to at least get through Chapter 1 without them, however.
+Note that Eastshade cannot be played on a Mac computer natively, and is not available on Nintendo Switch (but is available on XBox and Playstation). If you are unable to play Eastshade on your own computer, I would encourage you to play with one of your classmates (while a single player game, you can trade of the controller). However, if you cannot play Eastshade at all, a backup game is [Stray](https://store.steampowered.com/app/1332010/Stray/), which does have a Mac version. Be aware that neither Eastshade nor Stray is available on Nintendo Switch.
 
 ## Quest Submission
 {: .no_toc }
@@ -90,8 +90,11 @@ If you choose your own game, it can be a game you have already played, although 
 Some content here used with permission from [Game Design Concepts by Ian Schreiber](http://gamedesignconcepts.wordpress.com/2009/07/06/level-3-formal-elements-of-games/).
 
 
-# MonoGame - Level 1: Animation and Control
+# Unity - Level 1: Animation and Control
 
+This will be released at a later date
+
+<!---
 ## Quest Information
 {: .no_toc }
 <img style="float: left; padding: 10px" src="/assets/images/quest.png"> Over the course of three levels, you will be building out some basic functionality for a game built on MonoGame.  Level 1 will focus on animation and control.  You are welcome to use any tutorials or example code you find, but make sure to cite any sources used in your code and in the submission to Gradescope.
@@ -115,10 +118,14 @@ If you are looking for spritesheets and assets there are MANY available at [http
 Make sure to push the final version of your code to GitHub before the deadline.
 
 Answer the questions in [Gradescope]({{ site.data.externallinks.gradescope }}) under "MonoGame - Level 1: Animation and Control" regarding your project [5 XP].
+--->
 
 
-# MonoGame - Level 2: Collision and Physics
+# Unity - Level 2: Collision and Physics
 
+This will be released at a later date
+
+<!---
 ## Quest Information
 {: .no_toc }
 <img style="float: left; padding: 10px" src="/assets/images/quest.png"> Building on your code from Level 1, you will now implement some basic physics and collision detection for your mini-game.
@@ -140,10 +147,13 @@ If you are looking for spritesheets and assets there are MANY available at [http
 Make sure to push the final version of your code to GitHub before the deadline.
 
 Answer the questions in [Gradescope]({{ site.data.externallinks.gradescope }}) under "MonoGame - Level 2: Collision and Physics" regarding your project [5 XP].
+--->
 
+# Unity - Level 3: Tiled Level Design
 
-# MonoGame - Level 3: Tiled Level Design
+This will be released at a later date
 
+<!---
 ## Quest Information
 {: .no_toc }
 <img style="float: left; padding: 10px" src="/assets/images/quest.png"> Continuing to build on your code from Level 2, you will now create a full level using Tiled for your character to explore.
@@ -175,6 +185,8 @@ If you do something different, __make sure to explain it fully in the Gradescope
 Make sure to push the final version of your code to GitHub before the deadline.
 
 Answer the questions in [Gradescope]({{ site.data.externallinks.gradescope }}) under "MonoGame - Level 3: Tiled Level Design" regarding your project [5 XP].
+
+--->
 
 # Team Game Project
 
@@ -220,9 +232,11 @@ Game documentation, team evaluations, use of GitHub all fall under this category
 ### Setup and GitHub Classroom
 {: .no_toc }
 
-* One member of your team should accept the GitHub Classroom assignment at [https://classroom.github.com/a/lSFanMG-](https://classroom.github.com/a/lSFanMG-) and name the repo the name of your game.
+* One member of your team should accept the GitHub Classroom assignment at **link forthcoming** and name the repo the name of your game.
 * I expect your team to use good development practices with git, branching, etc.
 * You can use any frameworks/libraries that you find available.  Make sure to cite them!
+
+
 
 ### Project Check #1
 
@@ -278,11 +292,11 @@ Basically, the goal is to do a "rough draft" of some aspect of your game to help
 
 ## Quest Submission
 {: .no_toc }
-<img style="float: left; padding: 10px" src="/assets/images/turnin.png"> 
+<img style="float: left; padding: 10px" src="/assets/images/turnin.png">
 
 One member of your team should fill out the following document: [Physical Prototype](https://docs.google.com/document/d/1xAbtTfR1nKugrc1_TnFsWR_ZMQO8VLz_PgU0n6BCS8A/edit?usp=sharing)
 
-As a part of this document, you MUST have pictures of your prototype!  
+As a part of this document, you MUST have pictures of your prototype!
 
 We will also be demoing these in class on Monday, March 20.  Make sure yours is ready by then!  (The final version of the document is not due until 11:59 that night.)
 
