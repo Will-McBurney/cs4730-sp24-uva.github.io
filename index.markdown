@@ -27,6 +27,7 @@ under the name GamesAtUVA. We will try to play an eclectic set of games, everyth
 stages of planning this, and this won't be required, but it can be an additional opportunity for us to explore design aspects of real games that
 are on the market.
 
+Current plan is to stream Tuesday/Thursday evenings, but this is very subject to change.
 
 ## Staff Information
 __Instructor:__ Prof. Will McBurney  
