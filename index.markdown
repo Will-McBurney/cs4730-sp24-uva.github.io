@@ -6,7 +6,7 @@ description: "CS 4730 | Computer Game Design"
 permalink: /
 ---
 
-# CS 4730 - Spring 2023
+# CS 4730 - Spring 2024
 
 ## Computer Game Design
 Our course is an introductory course in video game design and production. We will focus on both the design and technical aspects of creating a game, from concept inception and prototyping through coding and playtesting.
@@ -33,10 +33,9 @@ Current plan is to stream Tuesday/Thursday evenings, but this is very subject to
 __Instructor:__ Prof. Will McBurney  
 Office: Rice 404 (in-person only)
 Office Hours: 
-
-Wednesday: 1:30 - 3p.m.
-Thursday: 3:30 - 5:00p.m.
-Friday: 1:30 - 3:00p.m. - Be aware, these are general office hours for both classes and CS Minors
+* Wednesday: 1:30 - 3p.m.  
+* Thursday: 3:30 - 5:00p.m.  
+* Friday: 1:30 - 3:00p.m. - Be aware, these are general office hours for both classes and CS Minors  
 
 Email: [mcburney@virginia.edu](mailto:mcburney@virginia.edu)    
 Website: [https://www.cs.virginia.edu/~pm8fc/](https://www.cs.virginia.edu/~pm8fc/)
