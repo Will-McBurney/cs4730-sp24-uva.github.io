@@ -81,8 +81,8 @@ Submit a PDF of your paper to the appropriate assignment in [Gradescope]({{ site
 
 You will complete this assessment at least twice: 
 
-* once for either _A Short Hike_ or _Celeste_
-* once for a game of your choosing (including the other option of _A Short Hike_ or _Celeste_) 
+* once for either _Vampire Survivors_ or _Eastshade_
+* once for the second game above *or* a game of your choosing.
 * optionally one more time as your Player's Choice Quest
 
 If you choose your own game, it can be a game you have already played, although you may need to refresh your memory.  If you need some thoughts on what games to play, I'm happy to offer suggestions.  
@@ -101,7 +101,7 @@ This will be released at a later date
 
 1. Accept the assignment from GitHub Classroom: [https://classroom.github.com/a/qa9BdJCd](https://classroom.github.com/a/qa9BdJCd)
 2. Clone the repo locally and create a new project inside this folder named "Level 1".
-3. Import a sprite sheet of your choosing, but it needs to be loosly a character with the following animation states for the noted XP:
+3. Import a sprite sheet of your choosing, but it needs to be loosely a character with the following animation states for the noted XP:
    * When standing still (either at the bottom of the Cornflower Blue window or a platform (invidible or not)), there should be a minimum 3 frame idle animation [5 XP]
    * The idle animation should be mirrored when the character is turned left or right [5 XP]
    * The character should be able to be controlled in the following way: A moves left, D moves right, W jumps [5 XP]
