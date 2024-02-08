@@ -92,17 +92,16 @@ Some content here used with permission from [Game Design Concepts by Ian Schreib
 
 # Unity - Level 1: Animation and Control
 
-This will be released at a later date
+Due Friday, February 23, 2024
 
-<!---
 ## Quest Information
 {: .no_toc }
-<img style="float: left; padding: 10px" src="/assets/images/quest.png"> Over the course of three levels, you will be building out some basic functionality for a game built on MonoGame.  Level 1 will focus on animation and control.  You are welcome to use any tutorials or example code you find, but make sure to cite any sources used in your code and in the submission to Gradescope.
+<img style="float: left; padding: 10px" src="/assets/images/quest.png"> Over the course of three levels, you will be building out some basic functionality for a game built on Unity.  Level 1 will focus on animation and control.  You are welcome to use any tutorials or example code you find, but make sure to cite any sources used in your code and in the submission to Gradescope.
 
-1. Accept the assignment from GitHub Classroom: [https://classroom.github.com/a/qa9BdJCd](https://classroom.github.com/a/qa9BdJCd)
-2. Clone the repo locally and create a new project inside this folder named "Level 1".
+1. Accept the assignment from GitHub Classroom: [https://classroom.github.com/a/gEVPc_C3](https://classroom.github.com/a/gEVPc_C3)
+2. This is intentionally an empty repository with only a .gitignore. When you create your project, save your project to this folder.
 3. Import a sprite sheet of your choosing, but it needs to be loosely a character with the following animation states for the noted XP:
-   * When standing still (either at the bottom of the Cornflower Blue window or a platform (invidible or not)), there should be a minimum 3 frame idle animation [5 XP]
+   * When standing still (either at the bottom of the Camera window or a platform (visible or not)), there should be a minimum 3 frame idle animation [5 XP]
    * The idle animation should be mirrored when the character is turned left or right [5 XP]
    * The character should be able to be controlled in the following way: A moves left, D moves right, W jumps [5 XP]
    * Gravity should affect the character and bring it back down to a resting state in a "reasonable" way after they jump [10 XP]
@@ -117,8 +116,8 @@ If you are looking for spritesheets and assets there are MANY available at [http
 
 Make sure to push the final version of your code to GitHub before the deadline.
 
-Answer the questions in [Gradescope]({{ site.data.externallinks.gradescope }}) under "MonoGame - Level 1: Animation and Control" regarding your project [5 XP].
---->
+Answer the questions in [Gradescope]({{ site.data.externallinks.gradescope }}) under "Unity - Level 1: Animation and Control" regarding your project [5 XP].
+
 
 
 # Unity - Level 2: Collision and Physics
