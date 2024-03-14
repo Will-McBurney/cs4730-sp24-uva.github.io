@@ -44,6 +44,6 @@ __Teaching Assistants:__ Timur Anvar
 
 __TA Office Hours:__
 
-TBD
+Mon/Wed/Fri 5-7 p.m.
 
 _All TA Office Hours are in Rice 442._
